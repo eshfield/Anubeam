@@ -1,0 +1,7 @@
+{
+    "uuid": "input-source-monitor@eshfield",
+    "name": "Keyboard Input Source Monitor",
+    "description": "Monitors input source changes and notifies external script via FIFO",
+    "version": 1,
+    "shell-version": ["48"]
+}
